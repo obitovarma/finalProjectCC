@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "PCGTest",
-			"Path": "C:\\Users\\wesle\\OneDrive\\Documents\\Unreal Projects\\PCGTest\\Source\\PCGTest.Target.cs",
+			"Path": "Y:\\game test\\finalProjectCC\\Final_Project\\PCGTest\\Source\\PCGTest.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "PCGTestEditor",
-			"Path": "C:\\Users\\wesle\\OneDrive\\Documents\\Unreal Projects\\PCGTest\\Source\\PCGTestEditor.Target.cs",
+			"Path": "Y:\\game test\\finalProjectCC\\Final_Project\\PCGTest\\Source\\PCGTestEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
